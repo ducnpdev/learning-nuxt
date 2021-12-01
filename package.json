@@ -1,0 +1,14 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "PORT=3005 nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "nuxt": "^2.15.8",
+        "vue-i18n": "^8.26.7"
+    }
+}
