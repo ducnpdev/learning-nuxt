@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /*.js$
+Allow: /*.css$
+Sitemap: /sitemap.xml

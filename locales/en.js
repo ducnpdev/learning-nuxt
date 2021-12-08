@@ -17,5 +17,9 @@ module.exports = {
     },
     services: {
       about:'services about en',
+    },
+    home:  {
+      title: "How Seal members talk about us",
+      title_sub: "Seal Commerce is a tech-product company that empowers the entrepreneurs to build successful eCommerce experience."
     }
   }

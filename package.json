@@ -9,6 +9,13 @@
     "dependencies": {
         "lodash": "^4.17.21",
         "nuxt": "^2.15.8",
+        "swiper": "^5.4.5",
+        "vue-awesome-swiper": "^4.1.1",
         "vue-i18n": "^8.26.7"
+    },
+    "devDependencies": {
+        "fibers": "^5.0.0",
+        "sass": "^1.44.0",
+        "sass-loader": "^10.2.0"
     }
 }

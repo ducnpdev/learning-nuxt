@@ -17,5 +17,11 @@ module.exports = {
     },
     services: {
       about:'services about vi',
+    }, 
+
+    
+    home:  {
+      title: "ViVi How Seal members talk about us",
+      title_sub: "ViVi Seal Commerce is a tech-product company that empowers the entrepreneurs to build successful eCommerce experience."
     }
   }

@@ -25,13 +25,14 @@
       </nuxt-link>
 
       <LangSwitcher />
+      
     </header>
     <nuxt />
   </div>
 </template>
 
 <script>
-import LangSwitcher from "../components/langSwitcher";
+import LangSwitcher from "@/components/langSwitcher";
 
 export default {
   components: {
