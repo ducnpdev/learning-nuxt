@@ -23,6 +23,7 @@ export default {
       routes.unshift(...newRoutes)
     }
   },
+  
   plugins: [
     { src: '~/plugins/global-mixin.js' },
     { src: '~/plugins/vue-i18n.js', injectAs: 'i18n' }

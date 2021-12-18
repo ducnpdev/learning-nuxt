@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <header>
-      <nuxt-link :to="getLocalizedRoute('index')" class="button--green">
+      <nuxt-link :to="getLocalizedRoute(' ')" class="button--green">
         {{ $t("labels.home") }}
       </nuxt-link>
       <nuxt-link
